@@ -15,7 +15,7 @@ const projects = [
     tech: ["JavaScript", "HTML", "CSS", "Weather API"],
     image: "images/skycast.png",
     github: "https://github.com/srinanty-1369/skycast",
-    live: "https://srinanty-1369.github.io/skycast/"
+    live: "https://skycast-sky.netlify.app/"
   },
   {
     title: "Guess My Number",
@@ -23,7 +23,7 @@ const projects = [
     tech: ["JavaScript", "HTML", "CSS"],
     image: "images/guess-number.png",
     github: "https://github.com/srinanty-1369/guess-my-number",
-    live: "https://srinanty-1369.github.io/guess-my-number/"
+    live: "https://guess-my-number-here.netlify.app/"
   }
 
   // ===== EXPENSE TRACKER (React): add later =====
